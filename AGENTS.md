@@ -18,5 +18,4 @@
 
 - `index.html` 會從根目錄 README 擷取 `book/*.md` 章節連結，並載入該章 Markdown。
 - 新增或更名章節時，確認 README 使用「第 N 章」連結格式，讓目錄能自動顯示。
-- Open Graph 分享圖片使用根目錄 `og-taiwan.jpg`。
-
+- Open Graph 分享圖片使用根目錄 `og-taiwan.png`。
