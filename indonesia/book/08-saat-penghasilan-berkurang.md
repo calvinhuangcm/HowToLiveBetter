@@ -1,7 +1,5 @@
 # 8. Saat penghasilan berkurang
 
-Program bantuan memakai sasaran, data, dan proses penetapan tersendiri. Memeriksa status atau mengajukan pembaruan data tidak menjamin seseorang otomatis menjadi penerima. Diperiksa 30 Oktober 2026.
-
 ### 1. Periksa data bantuan sosial melalui portal resmi dan kantor setempat
 - Biaya: waktu untuk menyiapkan NIK dan memastikan data keluarga benar.
 - Langkah: gunakan portal Cek Bansos Kemensos. Jika informasi tidak sesuai keadaan, tanyakan proses pemutakhiran kepada desa/kelurahan atau Dinas Sosial.

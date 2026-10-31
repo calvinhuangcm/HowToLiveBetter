@@ -1,7 +1,5 @@
 # 13. Memulai usaha
 
-Kewajiban usaha dipengaruhi bentuk, lokasi, skala, dan tingkat risiko kegiatan. Portal perizinan adalah titik awal, tetapi tidak semua usaha memperoleh izin yang sama. Diperiksa 31 Oktober 2026.
-
 ### 1. Tentukan kegiatan usaha dan periksa kebutuhan perizinannya di OSS
 - Biaya: waktu untuk menentukan kode kegiatan dan membaca petunjuk.
 - Langkah: gunakan OSS resmi, pilih kegiatan yang benar, dan periksa hasil perizinan berbasis risiko sebelum beroperasi.

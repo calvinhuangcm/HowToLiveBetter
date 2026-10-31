@@ -1,7 +1,5 @@
 # 15. Akun dan penipuan daring
 
-Penipuan dapat memakai identitas pemerintah, perusahaan, teman, atau penyedia jasa keuangan. Hubungi lembaga melalui situs atau aplikasi resmi yang Anda buka sendiri. Diperiksa 31 Oktober 2026.
-
 ### 1. Jangan pernah memberikan OTP, PIN, atau kata sandi kepada orang lain
 - Biaya: sedikit waktu untuk memeriksa permintaan secara mandiri.
 - Langkah: buka aplikasi resmi secara langsung, gunakan kata sandi berbeda untuk akun penting, dan aktifkan verifikasi tambahan bila tersedia.

@@ -1,7 +1,5 @@
 # 26. Urusan administrasi setelah kematian
 
-Kehilangan anggota keluarga dapat menyulitkan pengambilan keputusan. Minta bantuan kerabat tepercaya, kumpulkan dokumen, dan tanyakan prosedur kepada instansi yang menangani setiap urusan. Diperiksa 30 Oktober 2026.
-
 ### 1. Catat dokumen dan instansi yang perlu dihubungi setelah kematian
 - Biaya: waktu untuk mengumpulkan dokumen dan membagi tugas keluarga.
 - Langkah: tanyakan kepada fasilitas kesehatan dan Dukcapil setempat tentang pencatatan kematian serta dokumen yang diperlukan.

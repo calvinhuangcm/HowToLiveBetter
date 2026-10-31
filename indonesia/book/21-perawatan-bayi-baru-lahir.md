@@ -1,7 +1,5 @@
 # 21. Perawatan bayi baru lahir
 
-Kondisi bayi dapat berubah cepat. Ikuti pemeriksaan dan perawatan tenaga kesehatan, serta segera cari bantuan bila bayi menunjukkan tanda bahaya. Diperiksa 30 Oktober 2026.
-
 ### 1. Simpan Buku KIA dan catat jadwal kunjungan serta imunisasi bayi
 - Biaya: waktu untuk menjaga buku dan mengikuti kunjungan.
 - Langkah: bawa Buku KIA ke Posyandu atau fasilitas kesehatan dan minta petugas mengisi catatan pelayanan.

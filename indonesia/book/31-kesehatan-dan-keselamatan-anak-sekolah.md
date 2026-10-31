@@ -1,7 +1,5 @@
 # 31. Kesehatan dan keselamatan anak sekolah
 
-Sekolah, keluarga, dan layanan daerah dapat bekerja sama menjaga kesehatan dan keselamatan anak. Ikuti informasi sekolah serta program pemerintah terbaru. Diperiksa 30 Oktober 2026.
-
 ### 1. Periksa status bantuan pendidikan dan konfirmasi melalui sekolah
 - Biaya: waktu untuk menyiapkan NIK/NISN dan menghubungi operator sekolah.
 - Langkah: cek portal PIP resmi dan tanyakan status, rekening, serta tahap penyaluran kepada sekolah.

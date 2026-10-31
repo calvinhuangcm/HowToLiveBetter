@@ -1,7 +1,5 @@
 # 1. Panduan hidup di Indonesia
 
-Mulailah dari dokumen, fasilitas layanan, dan kanal resmi di tempat tinggal Anda. Indonesia terdiri dari banyak pulau dan pemerintah daerah; alur layanan dan nomor darurat tidak selalu sama di setiap kota. Diperiksa 31 Oktober 2026.
-
 ### 1. Simpan salinan aman dokumen identitas dan catat cara memperbaiki data
 - Biaya: sedikit waktu untuk memeriksa dokumen keluarga dan membuat salinan yang terlindungi.
 - Langkah: simpan dokumen asli di tempat aman dan salinan digital yang dikunci. Catat cara menghubungi Dukcapil kabupaten/kota untuk urusan KTP-el, Kartu Keluarga, akta kelahiran, atau akta kematian. Jangan mengirim foto NIK kepada pihak yang tidak jelas.

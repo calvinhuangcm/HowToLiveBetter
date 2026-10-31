@@ -1,7 +1,5 @@
 # 30. Kehilangan pekerjaan dan krisis hidup
 
-Kehilangan kerja, sakit berat, atau kematian anggota keluarga dapat mengganggu keuangan dan kesehatan. Fokus pada kebutuhan terdekat, simpan dokumen, dan cari layanan resmi. Diperiksa 31 Oktober 2026.
-
 ### 1. Setelah kehilangan pekerjaan, kumpulkan dokumen kerja dan tanyakan status jaminan
 - Biaya: waktu untuk meminta surat dan mengecek akun peserta.
 - Langkah: simpan surat pemutusan kerja, kontrak, slip upah, bukti kepesertaan, dan tanyakan kepada BPJS Ketenagakerjaan apakah program yang relevan dapat diajukan.

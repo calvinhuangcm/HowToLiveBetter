@@ -1,7 +1,5 @@
 # 23. Istirahat dan kesehatan jiwa
 
-Perasaan tertekan dapat dipengaruhi kesehatan, keselamatan, pekerjaan, hubungan, dan keadaan ekonomi. Mencari bantuan bukan tanda lemah; bila ada bahaya langsung, utamakan keselamatan. Diperiksa 31 Oktober 2026.
-
 ### 1. Pilih satu kegiatan istirahat yang sesuai kondisi dan dapat diulang
 - Biaya: dapat dilakukan tanpa biaya atau disesuaikan dengan kemampuan.
 - Langkah: coba berjalan di tempat aman, berbicara dengan orang tepercaya, atau melakukan kegiatan tenang yang Anda sukai.

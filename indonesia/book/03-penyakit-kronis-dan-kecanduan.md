@@ -1,7 +1,5 @@
 # 3. Penyakit kronis dan kecanduan
 
-Kondisi kronis dan ketergantungan dapat ditangani dengan dukungan medis, perubahan kebiasaan, dan bantuan orang lain. Jangan menghentikan obat resep secara mendadak tanpa berdiskusi dengan tenaga kesehatan. Diperiksa 31 Oktober 2026.
-
 ### 1. Buat satu daftar diagnosis, obat, alergi, dan jadwal kontrol
 - Biaya: sedikit waktu untuk memperbarui catatan.
 - Langkah: tulis nama obat sesuai kemasan atau resep, dosis yang diberikan petugas, alergi, dan kontak fasilitas kesehatan. Bawa daftar itu saat berganti dokter atau berobat darurat.

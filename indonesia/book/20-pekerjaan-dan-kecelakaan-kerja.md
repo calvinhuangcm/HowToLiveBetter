@@ -1,7 +1,5 @@
 # 20. Pekerjaan dan kecelakaan kerja
 
-Status kerja, jaminan sosial, waktu kerja, dan penyelesaian perselisihan dapat berbeda menurut hubungan kerja dan aturan yang berlaku. Simpan dokumen dan tanyakan kepada instansi yang berwenang. Diperiksa 31 Oktober 2026.
-
 ### 1. Simpan kontrak, slip upah, jadwal, dan bukti komunikasi kerja
 - Biaya: ruang penyimpanan dan waktu merapikan dokumen.
 - Langkah: simpan salinan kontrak, slip gaji, jadwal kerja, catatan pembayaran, dan komunikasi penting. Catat tanggal bila ada perubahan tugas atau perselisihan.

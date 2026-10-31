@@ -1,7 +1,5 @@
 # 32. Pendidikan dan kehidupan setelah dewasa
 
-Memasuki usia dewasa dapat membawa pilihan pendidikan, pekerjaan, keluarga, dan tanggung jawab baru. Periksa syarat program dan kewajiban hukum yang berlaku pada waktu serta keadaan Anda. Diperiksa 30 Oktober 2026.
-
 ### 1. Bandingkan biaya pendidikan, beasiswa, dan konsekuensi setelah lulus
 - Biaya: waktu mengumpulkan informasi dari kampus dan penyelenggara beasiswa.
 - Langkah: periksa biaya kuliah, tempat tinggal, syarat penerima, kewajiban beasiswa, dan pengakuan program sebelum mendaftar.

@@ -1,7 +1,5 @@
 # 11. Hubungan, pernikahan, dan harta
 
-Pernikahan dan pengelolaan harta berkaitan dengan hukum, pencatatan, keyakinan, dan keadaan keluarga. Pastikan jenis layanan yang sesuai dengan agama, status, dan lokasi Anda. Diperiksa 31 Oktober 2026.
-
 ### 1. Bicarakan utang, pengeluaran, tujuan, dan cara mengelola uang sebelum menikah
 - Biaya: waktu untuk berbicara dan menyusun rencana bersama.
 - Langkah: bahas penghasilan, tanggungan keluarga, utang, rekening, dan keputusan yang perlu persetujuan bersama. Jangan menyembunyikan kewajiban finansial yang dapat memengaruhi pasangan.

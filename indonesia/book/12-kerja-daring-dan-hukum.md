@@ -1,7 +1,5 @@
 # 12. Kerja daring dan hukum
 
-Kerja jarak jauh dan layanan digital tetap melibatkan kontrak, data pribadi, pajak, dan aturan sesuai jenis pekerjaan. Periksa aturan yang sesuai dengan hubungan kerja dan kegiatan Anda. Diperiksa 30 Oktober 2026.
-
 ### 1. Sepakati ruang lingkup, hasil kerja, pembayaran, dan revisi secara tertulis
 - Biaya: waktu menulis dan meninjau kesepakatan sebelum mulai.
 - Langkah: catat siapa yang menyediakan bahan, format hasil, tenggat, cara pembayaran, dan ketentuan penghentian. Simpan versi yang disetujui kedua pihak.

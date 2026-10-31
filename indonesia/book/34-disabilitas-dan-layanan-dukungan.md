@@ -1,7 +1,5 @@
 # 34. Disabilitas dan layanan dukungan
 
-Kebutuhan dukungan dipengaruhi lingkungan, aksesibilitas, layanan, dan pilihan pribadi. Tanyakan bentuk akomodasi serta layanan yang tersedia; jangan menganggap semua disabilitas atau keluarga memiliki kebutuhan yang sama. Diperiksa 30 Oktober 2026.
-
 ### 1. Tanyakan akomodasi yang Anda perlukan saat mengakses layanan
 - Biaya: waktu untuk menghubungi fasilitas sebelum datang.
 - Langkah: jelaskan kebutuhan komunikasi, mobilitas, pendampingan, atau format informasi dan tanyakan fasilitas yang tersedia.

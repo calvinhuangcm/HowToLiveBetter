@@ -1,7 +1,5 @@
 # 14. Keadaan darurat dan bencana
 
-Ancaman berbeda menurut wilayah: gempa, tsunami, banjir, longsor, kebakaran hutan, letusan gunung api, atau kecelakaan laut. Ikuti peringatan otoritas dan prosedur pemerintah setempat. Diperiksa 30 Oktober 2026.
-
 ### 1. Periksa risiko bencana tempat tinggal dan rute evakuasi
 - Biaya: waktu untuk melihat peta dan bertanya kepada aparat setempat.
 - Langkah: gunakan inaRISK untuk mengenali ancaman wilayah, lalu cari titik kumpul dan jalur evakuasi yang ditetapkan pemerintah daerah.

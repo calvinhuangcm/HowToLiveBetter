@@ -1,7 +1,5 @@
 # 6. Tabungan dan keamanan keuangan
 
-Jasa keuangan dan penawaran investasi memiliki aturan serta risiko yang berbeda. Verifikasi lembaga melalui regulator yang berwenang dan gunakan kanal pengaduan resmi. Diperiksa 31 Oktober 2026.
-
 ### 1. Buat ringkasan arus uang sebelum menentukan target tabungan
 - Biaya: waktu untuk mencatat pemasukan, pengeluaran wajib, dan cicilan.
 - Langkah: gunakan catatan sederhana selama satu bulan. Pisahkan biaya rutin, kewajiban utang, dan pengeluaran yang dapat ditunda; pilih target tabungan yang tidak mengorbankan kebutuhan pokok.

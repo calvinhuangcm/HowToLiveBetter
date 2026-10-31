@@ -1,7 +1,5 @@
 # 28. Kehamilan dan perawatan prenatal
 
-Kehamilan memerlukan penilaian yang sesuai dengan kesehatan ibu dan janin. Mulai perawatan sedini mungkin di fasilitas kesehatan dan ikuti saran petugas. Diperiksa 30 Oktober 2026.
-
 ### 1. Mulai pemeriksaan kehamilan dan bawa Buku KIA ke setiap kunjungan
 - Biaya: perjalanan dan waktu kunjungan sesuai layanan yang digunakan.
 - Langkah: hubungi Puskesmas, bidan, atau fasilitas kesehatan untuk jadwal pemeriksaan. Catat pertanyaan, obat, alergi, dan riwayat kesehatan.
