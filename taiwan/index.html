@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="zh-TW">
+<head>
+  <meta charset="utf-8">
+  <base href="../">
+  <link rel="canonical" href="https://calvinhuangcm.github.io/HowToLiveBetter/taiwan/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f2f6f2">
+  <script>
+    (() => {
+      let mode = 'system';
+      try {
+        const saved = localStorage.getItem('htlb-theme');
+        if (saved === 'light' || saved === 'dark') mode = saved;
+      } catch {}
+      const dark = mode === 'dark' || (mode === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+      document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+      document.documentElement.dataset.themeMode = mode;
+    })();
+  </script>
+  <meta name="description" content="依台灣法規、政府服務與日常情境整理的生活指南。沿用原作 34 章架構，逐章改寫為台灣版本。">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="zh_TW">
+  <meta property="og:title" content="初級大人的生活大小事指南">
+  <meta property="og:description" content="保留原作 34 章、676 條逐條改寫，新增台灣日常導覽與在地建議，全頁共 35 章、692 條閱讀內容。">
+  <meta property="og:image" content="https://raw.githubusercontent.com/calvinhuangcm/HowToLiveBetter/main/og-taiwan-v2.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <title>初級大人的生活大小事指南</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root{color-scheme:light;--ink:#20312e;--muted:#657570;--line:#dce5df;--paper:#fff;--wash:#f2f6f2;--green:#1c5a4a;--green2:#dcefe5;--gold:#a56c14;--shadow:0 10px 34px #183b3610;--control-line:#cbd8d0;--hover:#f2f7f3;--active-ink:#164a3d;--field-label:#294b40;--grade-a-bg:#e5f3e9;--grade-a-ink:#16503c;--grade-b-bg:#fff2d6;--grade-b-ink:#795010;--grade-c-bg:#fbe8e5;--grade-c-ink:#8d3428;--error:#9b3329;font-family:system-ui,-apple-system,"PingFang TC","Microsoft JhengHei","Noto Sans TC",sans-serif}
+    *{box-sizing:border-box}body{margin:0;background:var(--wash);color:var(--ink);line-height:1.7}a{color:var(--green);text-underline-offset:3px}button,input,select{font:inherit}.shell{max-width:1440px;margin:auto;padding:22px}.masthead{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(260px,.8fr);gap:24px;align-items:center;background:var(--paper);border:1px solid var(--line);border-radius:22px;padding:clamp(20px,4vw,42px);box-shadow:var(--shadow)}.eyebrow{font-size:.82rem;font-weight:750;color:var(--green);letter-spacing:.08em}.masthead h1{margin:.35rem 0 .7rem;font-size:clamp(1.9rem,4vw,3.3rem);line-height:1.2;letter-spacing:-.035em}.masthead p{margin:.4rem 0;color:var(--muted);max-width:62ch}.masthead img{display:block;width:100%;border-radius:14px;box-shadow:0 5px 22px #183b3622}.links{display:flex;flex-wrap:wrap;gap:14px;margin-top:20px;font-weight:650}.layout{display:grid;grid-template-columns:290px minmax(0,1fr);gap:22px;margin-top:22px;align-items:start}.panel{background:var(--paper);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow)}.sidebar{position:sticky;top:16px;padding:18px;max-height:calc(100vh - 32px);overflow:auto}.sidebar h2{font-size:1rem;margin:0 0 10px}.chapter-list{display:grid;gap:6px}.chapter{display:block;width:100%;text-align:left;border:0;border-radius:10px;background:transparent;padding:9px 11px;color:var(--ink);cursor:pointer;line-height:1.45}.chapter:hover{background:var(--hover)}.chapter[aria-current=true]{background:var(--green2);color:var(--active-ink);font-weight:750}.chapter small{display:block;color:var(--muted);font-size:.73rem;margin-top:2px}.side-note{border-top:1px solid var(--line);margin-top:15px;padding-top:13px;color:var(--muted);font-size:.83rem}.side-links{margin-top:6px;font-size:.76rem}.side-links a{color:var(--muted);text-decoration:none}.side-links a:hover{color:var(--green);text-decoration:underline}.reader{padding:clamp(18px,3vw,34px);min-height:60vh}.toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:18px}.toolbar input{flex:1;min-width:190px;border:1px solid var(--control-line);border-radius:10px;padding:10px 13px;background:var(--paper)}.toolbar select{border:1px solid var(--control-line);border-radius:10px;padding:10px;background:var(--paper);color:var(--ink)}.toolbar button{border:1px solid var(--control-line);border-radius:10px;background:var(--paper);padding:9px 12px;color:var(--ink);cursor:pointer}.toolbar button:hover{background:var(--hover)}.chapter-intro{padding:19px 0 10px}.chapter-intro h2{font-size:clamp(1.5rem,3vw,2.2rem);line-height:1.3;margin:0 0 8px}.chapter-intro p{color:var(--muted);margin:.45rem 0}.status{color:var(--muted);font-size:.9rem;margin:6px 0 16px}.entries{display:grid;gap:12px}.entry{border:1px solid var(--line);border-radius:14px;padding:17px 18px;background:var(--paper)}.entry h3{font-size:1.08rem;line-height:1.5;margin:0 0 12px}.grade{display:inline-block;vertical-align:2px;border-radius:999px;background:var(--grade-a-bg);color:var(--grade-a-ink);padding:1px 9px;margin-left:6px;font-size:.73rem;font-weight:800}.grade-b{background:var(--grade-b-bg);color:var(--grade-b-ink)}.grade-c,.grade-d{background:var(--grade-c-bg);color:var(--grade-c-ink)}.field{margin-top:8px}.field strong{color:var(--field-label)}.field p{margin:2px 0 0;overflow-wrap:anywhere}.field a{overflow-wrap:anywhere}.empty,.loading,.error{padding:30px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:14px}.error{color:var(--error)}.footer{color:var(--muted);font-size:.82rem;text-align:center;padding:24px 8px 8px}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+    :root[data-theme="dark"]{color-scheme:dark;--ink:#e6eee9;--muted:#a8b7af;--line:#34463e;--paper:#1c2923;--wash:#111a16;--green:#8bd5b1;--green2:#25483a;--shadow:0 10px 34px #0006;--control-line:#52645c;--hover:#293b33;--active-ink:#c8efdc;--field-label:#b7d9c5;--grade-a-bg:#2b4936;--grade-a-ink:#c1e8c2;--grade-b-bg:#4c3b21;--grade-b-ink:#f1cd81;--grade-c-bg:#4b302d;--grade-c-ink:#efaaa0;--error:#ffa69c}
+    .topbar{display:flex;justify-content:flex-end;margin:0 0 10px}
+    .theme-toggle{border:1px solid var(--control-line);border-radius:999px;background:var(--paper);padding:8px 13px;color:var(--ink);font:inherit;font-weight:650;cursor:pointer}
+    .theme-toggle:hover{background:var(--hover)}
+    :focus-visible{outline:3px solid var(--green);outline-offset:3px}
+    @media(max-width:850px){.shell{padding:12px}.masthead{grid-template-columns:1fr;gap:16px}.masthead img{max-height:230px;object-fit:cover}.layout{grid-template-columns:1fr;gap:12px}.sidebar{position:static;max-height:none}.chapter-list{display:flex;overflow-x:auto;padding-bottom:4px}.chapter{flex:0 0 auto;width:auto;max-width:230px}.chapter small{display:none}.side-note{display:block;margin-top:10px;font-size:.78rem}.reader{padding:18px}}
+    @media(prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}.chapter,.toolbar button{transition:background .15s ease}}
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <div class="topbar"><button id="theme-toggle" class="theme-toggle" type="button">外觀：跟隨系統</button></div>
+    <header class="masthead">
+      <div>
+        <div class="eyebrow">台灣版生活指南</div>
+        <h1>初級大人的生活大小事指南</h1>
+        <p>第 1 章為台灣日常生活導覽；第 2 至 35 章沿用原作 34 章主題逐條改寫 676 條，另增 9 條台灣建議，共 35 章、692 條閱讀內容。</p>
+        <nav class="links" aria-label="相關連結">
+          <a href="README.md">專案說明與完整章節</a>
+          <a href="docs/來源索引.md">台灣官方來源索引</a>
+          <a href="indonesia/">Edisi Indonesia</a>
+        </nav>
+      </div>
+      <img src="og-taiwan-v2.png" alt="台灣版：初級大人的生活大小事指南，35 章、692 條閱讀建議">
+    </header>
+    <div class="layout">
+      <aside class="panel sidebar">
+        <h2>章節目錄</h2>
+        <nav id="chapter-list" class="chapter-list" aria-label="選擇章節"><div class="loading">正在載入章節…</div></nav>
+        <div class="side-note">法規、補助、資格、費率與服務方式可能變動，辦理前請依各條目提供的來源再次確認。遇到急症請打 119。<div class="side-links"><a href="simplified-chinese/README.md">原作者簡體中文版</a></div></div>
+      </aside>
+      <main class="panel reader">
+        <div class="toolbar">
+          <label class="sr-only" for="search">搜尋目前章節</label>
+          <input id="search" type="search" placeholder="搜尋目前章節的標題或內容">
+          <label class="sr-only" for="grade-filter">證據等級</label>
+          <select id="grade-filter" aria-label="依證據等級篩選">
+            <option value="">所有證據等級</option><option value="A">A 級</option><option value="B">B 級</option><option value="C">C 級</option><option value="D">D 級</option>
+          </select>
+          <button id="prev" type="button" aria-label="上一章">上一章</button>
+          <button id="next" type="button" aria-label="下一章">下一章</button>
+        </div>
+        <section id="chapter-content" aria-live="polite"><div class="loading">正在載入台灣版內容…</div></section>
+      </main>
+    </div>
+    <footer class="footer">本指南提供一般生活資訊，不取代醫療診斷、法律意見或個案服務。原作與改寫授權、來源署名及內容範圍請見 <a href="README.md#原作與授權">專案說明</a>。</footer>
+  </div>
+  <script>
+  (()=>{
+    const themeToggle=document.querySelector('#theme-toggle'), themeMeta=document.querySelector('meta[name="theme-color"]');
+    const themeOrder=['system','light','dark'], themeLabels={system:'跟隨系統',light:'亮色',dark:'暗色'};
+    let themeMode='system';
+    try{const saved=localStorage.getItem('htlb-theme');if(themeOrder.includes(saved))themeMode=saved}catch{}
+    const systemTheme=window.matchMedia('(prefers-color-scheme: dark)');
+    function applyTheme(mode){
+      themeMode=mode;
+      const effective=mode==='system'?(systemTheme.matches?'dark':'light'):mode;
+      document.documentElement.dataset.theme=effective;
+      document.documentElement.dataset.themeMode=mode;
+      themeToggle.textContent='外觀：'+themeLabels[mode];
+      const next=themeOrder[(themeOrder.indexOf(mode)+1)%themeOrder.length];
+      themeToggle.setAttribute('aria-label','外觀設定：'+themeLabels[mode]+'；按一下切換至'+themeLabels[next]);
+      themeToggle.title='目前為'+themeLabels[mode]+'，按一下切換至'+themeLabels[next];
+      themeMeta.setAttribute('content',effective==='dark'?'#111a16':'#f2f6f2');
+      try{if(mode==='system')localStorage.removeItem('htlb-theme');else localStorage.setItem('htlb-theme',mode)}catch{}
+    }
+    themeToggle.addEventListener('click',()=>applyTheme(themeOrder[(themeOrder.indexOf(themeMode)+1)%themeOrder.length]));
+    applyTheme(themeMode);
+    systemTheme.addEventListener?.('change',()=>{if(themeMode==='system')applyTheme('system')});
+    const list=document.querySelector('#chapter-list'), content=document.querySelector('#chapter-content'), search=document.querySelector('#search'), grade=document.querySelector('#grade-filter');
+    let chapters=[], selected=0, entries=[];
+    const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    function inline(s){const links=[];const text=String(s).replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)|<(https?:\/\/[^\s>]+)>/g,(_,label,url,auto)=>{const href=url||auto;const key=`__LINK_${links.length}__`;links.push(`<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${esc(label||href)}</a>`);return key});return esc(text).replace(/__LINK_(\d+)__/g,(_,i)=>links[Number(i)]||'')}
+    function parse(md){
+      const lines=md.replace(/^\uFEFF/,'').split(/\r?\n/), h=lines.find(x=>/^#\s/.test(x))||'# 台灣版生活指南';
+      const first=lines.findIndex(x=>/^###\s+\d+\./.test(x));
+      const intro=lines.slice(lines.indexOf(h)+1,first<0?lines.length:first).filter(x=>x.trim()&&!/^<!--/.test(x));
+      const blocks=first<0?[]:md.slice(lines.slice(0,first).join('\n').length).split(/(?=^###\s+\d+\.)/m).filter(x=>/^###\s+\d+\./.test(x));
+      const rows=blocks.map(block=>{
+        const bl=block.split(/\r?\n/), title=(bl.shift()||'').replace(/^###\s+\d+\.\s*/, '').trim(), fields={};
+        for(const line of bl){const m=line.match(/^\s*-\s*([^：:]+)[：:]\s*(.*)$/);if(m)fields[m[1].trim()]=m[2].trim()}
+        const level=fields['證據等級']||fields['證据等级']||'';
+        return {title,fields,level,hay:(title+' '+Object.values(fields).join(' ')).toLocaleLowerCase('zh-TW')};
+      });
+      return {title:h.replace(/^#\s*/,''),intro,rows};
+    }
+    function renderRows(){
+      const q=search.value.trim().toLocaleLowerCase('zh-TW'), g=grade.value;
+      const shown=entries.filter(e=>(!q||e.hay.includes(q))&&(!g||e.level.toUpperCase().startsWith(g)));
+      document.querySelector('#status').textContent=`顯示 ${shown.length}／${entries.length} 條建議`;
+      const holder=document.querySelector('#entries');
+      if(!shown.length){holder.innerHTML='<div class="empty">沒有符合條件的建議，請調整搜尋文字或篩選。</div>';return}
+      holder.innerHTML=shown.map(e=>{
+        const fields=Object.entries(e.fields).map(([name,value])=>`<div class="field"><strong>${esc(name)}：</strong><p>${inline(value)}</p></div>`).join('');
+        const mark=e.level?`<span class="grade grade-${esc(e.level.trim().charAt(0).toLowerCase())}">${esc(e.level)}</span>`:'';
+        return `<article class="entry"><h3>${inline(e.title)}${mark}</h3>${fields}</article>`;
+      }).join('');
+    }
+    async function openChapter(index){
+      selected=Math.max(0,Math.min(index,chapters.length-1));
+      for(const [i,a] of [...list.querySelectorAll('button')].entries()){a.setAttribute('aria-current',i===selected?'true':'false')}
+      content.innerHTML='<div class="loading">正在載入章節…</div>';search.value='';grade.value='';
+      try{
+        const response=await fetch(chapters[selected].path);if(!response.ok)throw new Error(`HTTP ${response.status}`);
+        const data=parse(await response.text());entries=data.rows;
+        content.innerHTML=`<div class="chapter-intro"><h2>${esc(chapters[selected].label||data.title)}</h2>${data.intro.map(p=>`<p>${inline(p)}</p>`).join('')}</div><div id="status" class="status"></div><div id="entries" class="entries"></div>`;
+        renderRows();
+      }catch(err){content.innerHTML=`<div class="error">無法載入本章：${esc(err.message)}。請重新整理頁面，或直接從 <a href="README.md">README 章節清單</a> 開啟原始 Markdown。</div>`}
+      document.querySelector('#prev').disabled=selected===0;document.querySelector('#next').disabled=selected===chapters.length-1;
+    }
+    async function start(){
+      try{
+        const response=await fetch('README.md');if(!response.ok)throw new Error(`HTTP ${response.status}`);
+        const readme=await response.text(), rx=/^- \[(第 \d+ 章[^\]]*)\]\((book\/[^)]+\.md)\)/gm;let m;
+        while((m=rx.exec(readme)))chapters.push({label:m[1],path:m[2]});
+        if(!chapters.length)throw new Error('README 中找不到章節連結');
+        list.innerHTML=chapters.map((c,i)=>`<button class="chapter" type="button" data-i="${i}">${esc(c.label)}<small>${esc(c.path.split('/').pop().replace(/\.md$/,''))}</small></button>`).join('');
+        list.addEventListener('click',e=>{const b=e.target.closest('button[data-i]');if(b)openChapter(Number(b.dataset.i))});
+        search.addEventListener('input',renderRows);grade.addEventListener('change',renderRows);
+        document.querySelector('#prev').addEventListener('click',()=>openChapter(selected-1));document.querySelector('#next').addEventListener('click',()=>openChapter(selected+1));
+        const requested=Number(new URLSearchParams(location.search).get('chapter')||0);openChapter(Number.isFinite(requested)?requested:0);
+      }catch(err){list.innerHTML=`<div class="error">無法讀取章節目錄：${esc(err.message)}。請直接閱讀 <a href="README.md">README</a>。</div>`;content.innerHTML=''}
+    }
+    start();
+  })();
+  </script>
+</body>
+</html>
