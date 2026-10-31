@@ -1,7 +1,5 @@
 # 27. Situs, platform, dan usaha digital
 
-Mengoperasikan situs atau platform dapat melibatkan data pribadi, pembayaran, konten, pajak, dan izin usaha. Tentukan dulu kegiatan dan peran Anda sebelum menyimpulkan kewajiban. Diperiksa 30 Oktober 2026.
-
 ### 1. Tentukan apakah layanan Anda memproses data pribadi dan batasi aksesnya
 - Biaya: waktu untuk membuat inventaris data dan pengaturan akses.
 - Langkah: catat data yang dikumpulkan, tujuan, lokasi penyimpanan, siapa yang dapat mengakses, serta cara memperbaiki atau menghapusnya bila diwajibkan.

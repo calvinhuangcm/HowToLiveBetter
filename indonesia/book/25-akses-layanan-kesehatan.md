@@ -1,7 +1,5 @@
 # 25. Akses layanan kesehatan
 
-Gunakan fasilitas yang sesuai tingkat kebutuhan dan ikuti alur jaminan kesehatan yang berlaku. Pada keadaan gawat, cari pertolongan segera; jangan menunda hanya untuk menyelesaikan administrasi. Diperiksa 30 Oktober 2026.
-
 ### 1. Cek status JKN dan fasilitas kesehatan tingkat pertama
 - Biaya: beberapa menit melalui Mobile JKN atau Care Center.
 - Langkah: cek status peserta dan data keluarga, lalu pastikan fasilitas tingkat pertama yang tercatat masih dapat diakses.

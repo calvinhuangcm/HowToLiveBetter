@@ -1,7 +1,5 @@
 # 22. Perjalanan dan bantuan di luar negeri
 
-Syarat paspor, visa, kesehatan, dan masuk negara tujuan dapat berubah. Rencanakan perjalanan dari informasi resmi negara tujuan dan siapkan cara meminta bantuan konsuler. Diperiksa 30 Oktober 2026.
-
 ### 1. Periksa masa berlaku paspor, visa, dan syarat masuk dari sumber resmi
 - Biaya: waktu untuk memeriksa dokumen dan mengurus perpanjangan bila perlu.
 - Langkah: cek aturan imigrasi Indonesia dan persyaratan negara tujuan sebelum membeli tiket yang tidak dapat dikembalikan.

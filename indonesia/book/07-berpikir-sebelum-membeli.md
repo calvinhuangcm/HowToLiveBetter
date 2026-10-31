@@ -1,7 +1,5 @@
 # 7. Berpikir sebelum membeli
 
-Harga murah belum tentu sesuai kebutuhan atau aman. Gunakan jeda singkat untuk membandingkan harga, syarat, mutu, dan biaya lanjutan. Diperiksa 30 Oktober 2026.
-
 ### 1. Bandingkan biaya total, termasuk ongkos kirim, perawatan, dan pembatalan
 - Biaya: beberapa menit membaca informasi produk dan syarat transaksi.
 - Langkah: tulis harga akhir, biaya berulang, garansi, masa uji coba, dan aturan pengembalian sebelum membayar.

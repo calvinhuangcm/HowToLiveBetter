@@ -1,7 +1,5 @@
 # 2. Mencegah penyakit dan kematian dini
 
-Pencegahan membantu menemukan risiko lebih awal, tetapi hasil pemeriksaan bukan diagnosis akhir. Pilih pemeriksaan berdasarkan usia, riwayat, kondisi kesehatan, dan arahan petugas kesehatan. Diperiksa 31 Oktober 2026.
-
 ### 1. Tanyakan pemeriksaan kesehatan gratis yang tersedia di Puskesmas
 - Biaya: waktu untuk mencari jadwal dan datang ke fasilitas yang berpartisipasi.
 - Langkah: periksa program Cek Kesehatan Gratis Kementerian Kesehatan dan tanyakan jadwal serta kelompok sasaran di Puskesmas. Bawa identitas dan catatan kesehatan yang tersedia.

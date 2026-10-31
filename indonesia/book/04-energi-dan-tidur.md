@@ -1,7 +1,5 @@
 # 4. Energi dan tidur
 
-Energi sehari-hari dipengaruhi kesehatan, pekerjaan, tanggung jawab keluarga, lingkungan, dan tidur. Saran berikut adalah langkah umum; kelelahan yang menetap atau mengganggu fungsi sehari-hari layak dibicarakan dengan tenaga kesehatan. Diperiksa 30 Oktober 2026.
-
 ### 1. Catat pola tidur dan hal yang mengganggunya selama beberapa hari
 - Biaya: beberapa menit sehari.
 - Langkah: catat waktu tidur, waktu bangun, kerja sif, konsumsi minuman berkafein, obat, dan keluhan. Gunakan catatan itu untuk berbicara dengan petugas kesehatan bila masalah berlanjut.

@@ -1,7 +1,5 @@
 # 19. Anak dan dukungan keluarga
 
-Kebutuhan anak berubah seiring usia dan keadaan keluarga. Gunakan layanan kesehatan, pendidikan, dan perlindungan anak resmi; jangan menganggap satu skema bantuan berlaku untuk semua keluarga. Diperiksa 30 Oktober 2026.
-
 ### 1. Simpan buku KIA dan catatan imunisasi anak di tempat yang mudah dibawa
 - Biaya: waktu untuk menjaga buku dan mencatat kunjungan.
 - Langkah: bawa Buku KIA ke Posyandu, Puskesmas, atau fasilitas kesehatan. Minta petugas mencatat layanan yang telah diberikan.

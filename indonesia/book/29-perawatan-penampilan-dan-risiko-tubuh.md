@@ -1,7 +1,5 @@
 # 29. Perawatan penampilan dan risiko tubuh
 
-Perawatan kosmetik, suplemen, dan tindakan medis memiliki tingkat risiko yang berbeda. Periksa izin produk dan kualifikasi penyedia; jangan mengambil keputusan karena tekanan atau klaim hasil yang dijamin. Diperiksa 31 Oktober 2026.
-
 ### 1. Periksa izin edar kosmetik dan kondisi kemasan sebelum digunakan
 - Biaya: waktu untuk memeriksa nomor produk.
 - Langkah: cek kosmetik di portal BPOM, periksa label dan kedaluwarsa, serta hentikan penggunaan bila muncul reaksi yang mengkhawatirkan.

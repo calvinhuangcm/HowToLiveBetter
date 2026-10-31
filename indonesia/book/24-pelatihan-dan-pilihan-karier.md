@@ -1,7 +1,5 @@
 # 24. Pelatihan dan pilihan karier
 
-Pilihan belajar dan kerja perlu dibandingkan berdasarkan biaya, waktu, peluang, dan tanggung jawab pribadi. Periksa syarat program pada tahun pendaftaran; persyaratan dapat berubah. Diperiksa 30 Oktober 2026.
-
 ### 1. Sebelum mendaftar pelatihan, periksa penyelenggara, kurikulum, dan biaya total
 - Biaya: waktu untuk membandingkan beberapa pilihan.
 - Langkah: tanyakan durasi, pengajar, praktik, sertifikat, biaya tambahan, kebijakan pengembalian, dan hasil kerja lulusan.

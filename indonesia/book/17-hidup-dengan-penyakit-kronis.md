@@ -1,7 +1,5 @@
 # 17. Hidup dengan penyakit kronis
 
-Perawatan jangka panjang lebih mudah dikelola bila jadwal, obat, dan tanda perubahan dicatat. Keputusan terapi tetap dibuat bersama tenaga kesehatan yang memahami kondisi Anda. Diperiksa 30 Oktober 2026.
-
 ### 1. Pilih fasilitas kesehatan tingkat pertama dan pahami alur rujukan JKN
 - Biaya: waktu untuk mengecek kepesertaan dan fasilitas terdaftar.
 - Langkah: gunakan Mobile JKN atau kanal BPJS Kesehatan untuk melihat fasilitas tingkat pertama dan meminta informasi tentang antrean serta rujukan.

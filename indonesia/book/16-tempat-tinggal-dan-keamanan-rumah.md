@@ -1,7 +1,5 @@
 # 16. Tempat tinggal dan keamanan rumah
 
-Sewa, pembelian, dan penggunaan rumah menyangkut dokumen, biaya, dan aturan setempat. Jangan menyerahkan uang besar hanya berdasarkan pesan atau foto dokumen yang belum diverifikasi. Diperiksa 31 Oktober 2026.
-
 ### 1. Buat perjanjian sewa tertulis dan dokumentasikan kondisi awal rumah
 - Biaya: waktu membaca perjanjian dan memotret kondisi rumah.
 - Langkah: catat masa sewa, pembayaran, deposit, utilitas, perbaikan, aturan penggunaan, dan cara pengembalian kunci. Simpan bukti pembayaran dan foto bertanggal.

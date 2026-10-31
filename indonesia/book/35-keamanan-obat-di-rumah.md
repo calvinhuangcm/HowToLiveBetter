@@ -1,7 +1,5 @@
 # 35. Keamanan obat di rumah
 
-Obat yang dijual bebas, obat resep, jamu, dan suplemen memiliki aturan penggunaan berbeda. Baca label dan minta bantuan apoteker atau dokter bila ragu. Diperiksa 30 Oktober 2026.
-
 ### 1. Simpan obat dalam kemasan asli dan cek nama serta tanggal kedaluwarsa
 - Biaya: sedikit waktu untuk memeriksa isi lemari obat.
 - Langkah: simpan sesuai petunjuk label, jauhkan dari anak, dan jangan menggunakan obat yang identitasnya tidak jelas atau kemasannya rusak.

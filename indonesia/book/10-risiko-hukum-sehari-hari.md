@@ -1,7 +1,5 @@
 # 10. Risiko hukum sehari-hari
 
-Jika menghadapi ancaman, penagihan bermasalah, kecelakaan, atau sengketa, utamakan keselamatan dan simpan catatan faktual. Kanal pengaduan pelayanan publik bukan pengganti laporan pidana atau proses pengadilan. Diperiksa 30 Oktober 2026.
-
 ### 1. Catat kronologi dan simpan bukti asli setelah terjadi masalah
 - Biaya: beberapa menit untuk menulis tanggal, waktu, lokasi, pihak yang terlibat, dan saksi.
 - Langkah: simpan pesan, surat, foto, dan bukti pembayaran dalam bentuk asli. Buat cadangan terpisah; jangan menyunting bukti yang mungkin diperlukan.

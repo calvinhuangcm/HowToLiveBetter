@@ -1,7 +1,5 @@
 # 33. Belajar di luar negeri
 
-Studi luar negeri melibatkan biaya, izin tinggal, asuransi, keselamatan, dan persyaratan akademik negara tujuan. Gunakan pengumuman resmi dan siapkan rencana jika keberangkatan atau studi tertunda. Diperiksa 30 Oktober 2026.
-
 ### 1. Pastikan program dan kampus diakui untuk tujuan yang Anda perlukan
 - Biaya: waktu untuk meminta konfirmasi dari kampus dan instansi Indonesia terkait.
 - Langkah: periksa pengakuan, kurikulum, biaya, syarat bahasa, dan ketentuan profesi sebelum membayar deposit.

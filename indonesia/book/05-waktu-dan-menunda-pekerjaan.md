@@ -1,7 +1,5 @@
 # 5. Waktu dan kebiasaan menunda
 
-Teknik mengatur waktu adalah alat bantu, bukan ukuran nilai diri. Pilih cara yang sesuai dengan beban kerja, kondisi kesehatan, dan tanggung jawab yang sedang Anda hadapi. Diperiksa 30 Oktober 2026.
-
 ### 1. Ubah pekerjaan besar menjadi langkah pertama yang dapat dilakukan sekarang
 - Biaya: beberapa menit untuk menulis dan mengurutkan langkah.
 - Langkah: ganti “urus dokumen” dengan tindakan seperti “buka situs instansi dan catat berkas yang diminta”. Mulai dari satu langkah yang tidak bergantung pada orang lain.

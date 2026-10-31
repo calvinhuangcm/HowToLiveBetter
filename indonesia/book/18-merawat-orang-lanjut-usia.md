@@ -1,7 +1,5 @@
 # 18. Merawat orang lanjut usia
 
-Perawatan lansia perlu menghormati pilihan dan kemampuan orang yang dirawat. Kebutuhan kesehatan, sosial, dan pengasuhan tidak sama antarindividu. Diperiksa 30 Oktober 2026.
-
 ### 1. Tanyakan kepada lansia apa yang ingin dan mampu ia lakukan sendiri
 - Biaya: waktu untuk mendengarkan dan menyesuaikan rutinitas.
 - Langkah: bahas kegiatan sehari-hari, privasi, pilihan layanan, obat, dan siapa yang boleh mengambil keputusan bila diperlukan.
