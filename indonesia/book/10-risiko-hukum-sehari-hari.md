@@ -3,7 +3,6 @@
 Jika menghadapi ancaman, penagihan bermasalah, kecelakaan, atau sengketa, utamakan keselamatan dan simpan catatan faktual. Kanal pengaduan pelayanan publik bukan pengganti laporan pidana atau proses pengadilan. Diperiksa 30 Oktober 2026.
 
 ### 1. Catat kronologi dan simpan bukti asli setelah terjadi masalah
-<!-- zh-TW: 事情發生後，記錄時間順序並保存原始證據。 -->
 - Biaya: beberapa menit untuk menulis tanggal, waktu, lokasi, pihak yang terlibat, dan saksi.
 - Langkah: simpan pesan, surat, foto, dan bukti pembayaran dalam bentuk asli. Buat cadangan terpisah; jangan menyunting bukti yang mungkin diperlukan.
 - Manfaat: memudahkan Anda menjelaskan kejadian secara konsisten kepada pihak yang berwenang.
@@ -12,7 +11,6 @@ Jika menghadapi ancaman, penagihan bermasalah, kecelakaan, atau sengketa, utamak
 - Catatan: jangan merekam atau menyebarkan data orang lain tanpa mempertimbangkan hukum dan keselamatan.
 
 ### 2. Gunakan kanal yang tepat: pengaduan layanan, bantuan hukum, atau polisi
-<!-- zh-TW: 依問題性質選擇公共服務申訴、法律扶助或警方報案管道。 -->
 - Biaya: bergantung pada perjalanan dan jenis layanan.
 - Langkah: keluhan atas layanan pemerintah dapat diajukan lewat SP4N-LAPOR!; dugaan tindak pidana perlu disampaikan melalui mekanisme kepolisian; persoalan hukum dapat dikonsultasikan ke OBH terakreditasi.
 - Manfaat: mengarahkan laporan ke lembaga yang berwenang menangani substansinya.
@@ -21,7 +19,6 @@ Jika menghadapi ancaman, penagihan bermasalah, kecelakaan, atau sengketa, utamak
 - Catatan: SP4N-LAPOR! menyatakan bahwa kanal tersebut bukan pengganti penyidikan atau proses peradilan.
 
 ### 3. Jangan membayar untuk “menghapus laporan” atau “menjamin perkara selesai”
-<!-- zh-TW: 不要支付聲稱能撤案、保證判決或立即追回款項的費用。 -->
 - Biaya: tanpa biaya untuk menolak tekanan dan memeriksa informasi melalui kanal resmi.
 - Langkah: minta dasar tertulis, jangan serahkan OTP/PIN, dan hubungi instansi melalui nomor dari situs resminya. Jika merasa terancam, cari tempat aman dan minta bantuan.
 - Manfaat: mengurangi risiko menjadi korban penipuan lanjutan atau kehilangan bukti.

@@ -3,7 +3,6 @@
 Dokumen aset, tanggung jawab, dan cara penyelesaian sengketa bergantung pada jenis urusan dan aturan yang berlaku. Untuk tindakan berisiko besar, periksa dokumen kepada instansi atau tenaga hukum yang berwenang. Diperiksa 31 Oktober 2026.
 
 ### 1. Simpan kontrak, kuitansi, bukti transfer, dan komunikasi penting
-<!-- zh-TW: 保存契約、收據、匯款憑證與重要往來紀錄。 -->
 - Biaya: ruang penyimpanan digital atau map dokumen.
 - Langkah: simpan dokumen asli, buat salinan, catat tanggal dan pihak yang terlibat. Jangan mengubah file asli; buat catatan terpisah bila ada koreksi.
 - Manfaat: memudahkan pengecekan kesepakatan dan menunjukkan kronologi jika terjadi sengketa.
@@ -12,7 +11,6 @@ Dokumen aset, tanggung jawab, dan cara penyelesaian sengketa bergantung pada jen
 - Catatan: bukti yang diperlukan bergantung pada perkara; penyimpanan aman penting untuk melindungi data pribadi.
 
 ### 2. Jangan menjadi penjamin atau menandatangani dokumen yang belum dipahami
-<!-- zh-TW: 不要為他人擔保，也不要簽署尚未理解的文件。 -->
 - Biaya: waktu untuk membaca dan meminta penjelasan independen.
 - Langkah: minta salinan, pahami kewajiban, jangka waktu, konsekuensi gagal bayar, dan cara keluar dari perjanjian. Jangan biarkan orang lain mengisi dokumen kosong untuk ditandatangani.
 - Manfaat: membantu menghindari tanggung jawab yang tidak Anda sadari.
@@ -21,7 +19,6 @@ Dokumen aset, tanggung jawab, dan cara penyelesaian sengketa bergantung pada jen
 - Catatan: akibat hukum tertentu perlu dinilai oleh penasihat yang memahami dokumen dan keadaan Anda.
 
 ### 3. Cari bantuan hukum terakreditasi bila tidak mampu membayar advokat
-<!-- zh-TW: 若無力負擔律師費，查詢認可法律扶助機構，並確認可接受的經濟困難證明及案件文件。 -->
 - Biaya: waktu menyiapkan identitas, dokumen perkara, dan bukti persyaratan.
 - Langkah: cari Organisasi Bantuan Hukum terakreditasi melalui BPHN. Tanyakan bukti ketidakmampuan dan dokumen perkara yang diterima, seperti surat keterangan miskin atau dokumen pengganti yang berlaku, sebelum mengirim dokumen sensitif.
 - Manfaat: dapat membuka akses konsultasi atau pendampingan bagi pemohon yang memenuhi ketentuan.

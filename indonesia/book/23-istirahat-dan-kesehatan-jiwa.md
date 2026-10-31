@@ -3,7 +3,6 @@
 Perasaan tertekan dapat dipengaruhi kesehatan, keselamatan, pekerjaan, hubungan, dan keadaan ekonomi. Mencari bantuan bukan tanda lemah; bila ada bahaya langsung, utamakan keselamatan. Diperiksa 31 Oktober 2026.
 
 ### 1. Pilih satu kegiatan istirahat yang sesuai kondisi dan dapat diulang
-<!-- zh-TW: 選一項符合自己狀況、容易持續的休息或放鬆活動。 -->
 - Biaya: dapat dilakukan tanpa biaya atau disesuaikan dengan kemampuan.
 - Langkah: coba berjalan di tempat aman, berbicara dengan orang tepercaya, atau melakukan kegiatan tenang yang Anda sukai.
 - Manfaat: menyediakan waktu jeda dari tuntutan sehari-hari.
@@ -12,7 +11,6 @@ Perasaan tertekan dapat dipengaruhi kesehatan, keselamatan, pekerjaan, hubungan,
 - Catatan: kegiatan santai tidak menggantikan pertolongan profesional bila gejala berat atau menetap.
 
 ### 2. Hubungi Healing119.id atau layanan kesehatan bila mengalami krisis emosional
-<!-- zh-TW: 面臨心理危機時，可前往 Healing119.id 或撥 119 分機 8 尋求初步心理支持；醫療急症則聯絡 PSC 119。 -->
 - Biaya: layanan Healing119.id disediakan sebagai kanal dukungan; biaya telepon bergantung pada operator.
 - Langkah: kunjungi Healing119.id atau hubungi 119 ekstensi 8 untuk dukungan psikologis awal. Bila ada risiko langsung, pergi ke tempat aman dan minta orang tepercaya menemani; untuk kegawatdaruratan kesehatan, hubungi PSC 119 bila tersedia di wilayah Anda atau layanan darurat setempat.
 - Manfaat: menyediakan jalur berbicara dengan konselor dan mencari arahan dukungan.
@@ -21,7 +19,6 @@ Perasaan tertekan dapat dipengaruhi kesehatan, keselamatan, pekerjaan, hubungan,
 - Catatan: ketersediaan koneksi dapat berbeda. Bila nomor tidak tersambung, hubungi IGD atau layanan darurat setempat.
 
 ### 3. Ceritakan gejala secara konkret kepada tenaga kesehatan
-<!-- zh-TW: 向醫療人員描述症狀持續多久、對生活的影響與安全疑慮。 -->
 - Biaya: waktu untuk konsultasi dan perjalanan.
 - Langkah: catat sejak kapan masalah muncul, pengaruhnya terhadap tidur dan aktivitas, serta obat atau zat yang digunakan. Tanyakan pilihan tindak lanjut.
 - Manfaat: membantu petugas memahami kebutuhan dan menentukan penilaian berikutnya.

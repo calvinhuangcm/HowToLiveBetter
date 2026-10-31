@@ -3,7 +3,6 @@
 Pencegahan membantu menemukan risiko lebih awal, tetapi hasil pemeriksaan bukan diagnosis akhir. Pilih pemeriksaan berdasarkan usia, riwayat, kondisi kesehatan, dan arahan petugas kesehatan. Diperiksa 31 Oktober 2026.
 
 ### 1. Tanyakan pemeriksaan kesehatan gratis yang tersedia di Puskesmas
-<!-- zh-TW: 詢問衛生中心目前提供哪些免費健康檢查，再依個人狀況安排。 -->
 - Biaya: waktu untuk mencari jadwal dan datang ke fasilitas yang berpartisipasi.
 - Langkah: periksa program Cek Kesehatan Gratis Kementerian Kesehatan dan tanyakan jadwal serta kelompok sasaran di Puskesmas. Bawa identitas dan catatan kesehatan yang tersedia.
 - Manfaat: pemeriksaan dapat membantu mengenali faktor risiko dan mengarahkan tindak lanjut; hasil skrining perlu dibahas dengan tenaga kesehatan.
@@ -12,7 +11,6 @@ Pencegahan membantu menemukan risiko lebih awal, tetapi hasil pemeriksaan bukan 
 - Catatan: jenis pemeriksaan dan alur pendaftaran dapat berbeda menurut kelompok usia dan fasilitas.
 
 ### 2. Catat vaksinasi yang pernah diterima dan tanyakan vaksin yang masih diperlukan
-<!-- zh-TW: 整理疫苗接種紀錄，向醫療人員確認是否需要補接種。 -->
 - Biaya: waktu untuk mencari buku imunisasi atau catatan di fasilitas kesehatan.
 - Langkah: bawa bukti imunisasi saat berkonsultasi di Puskesmas atau Posyandu. Jangan mengulang atau melewatkan dosis hanya berdasarkan unggahan media sosial.
 - Manfaat: catatan yang rapi membantu petugas menentukan langkah berikutnya sesuai usia dan kondisi.
@@ -21,7 +19,6 @@ Pencegahan membantu menemukan risiko lebih awal, tetapi hasil pemeriksaan bukan 
 - Catatan: jadwal imunisasi dan ketersediaan vaksin dapat berubah; tanyakan kepada Puskesmas.
 
 ### 3. Gunakan helm berstandar dan perlengkapan keselamatan setiap kali berkendara
-<!-- zh-TW: 每次騎乘都使用符合 SNI 的安全帽，並扣緊帽帶。 -->
 - Biaya: membeli helm yang sesuai ukuran dan merawatnya.
 - Langkah: kenakan helm berstandar SNI dengan tali pengikat terkunci rapat saat mengendarai atau membonceng sepeda motor. Patuhi rambu, batas kecepatan, dan aturan lalu lintas.
 - Manfaat: perlengkapan keselamatan mengurangi paparan risiko benturan; tetap berkendara hati-hati karena alat pelindung tidak mencegah semua cedera.

@@ -3,7 +3,6 @@
 Penipuan dapat memakai identitas pemerintah, perusahaan, teman, atau penyedia jasa keuangan. Hubungi lembaga melalui situs atau aplikasi resmi yang Anda buka sendiri. Diperiksa 31 Oktober 2026.
 
 ### 1. Jangan pernah memberikan OTP, PIN, atau kata sandi kepada orang lain
-<!-- zh-TW: 絕不把 OTP、PIN 或密碼告訴他人，也不要照陌生指示點擊連結。 -->
 - Biaya: sedikit waktu untuk memeriksa permintaan secara mandiri.
 - Langkah: buka aplikasi resmi secara langsung, gunakan kata sandi berbeda untuk akun penting, dan aktifkan verifikasi tambahan bila tersedia.
 - Manfaat: mengurangi kemungkinan orang lain mengambil alih akun.
@@ -12,7 +11,6 @@ Penipuan dapat memakai identitas pemerintah, perusahaan, teman, atau penyedia ja
 - Catatan: jangan menyimpan OTP di pesan yang mudah diakses orang lain.
 
 ### 2. Verifikasi nomor rekening dan tawaran keuangan melalui kanal regulator
-<!-- zh-TW: 透過金融主管機關的官方管道核對帳戶與金融商品邀約。 -->
 - Biaya: waktu untuk melakukan pencarian sebelum mentransfer uang.
 - Langkah: periksa legalitas penyedia layanan keuangan di OJK dan hubungi kontak resmi bila ragu. Jangan percaya tangkapan layar izin atau testimoni saja.
 - Manfaat: dapat membantu menghindari entitas yang tidak berizin atau penawaran palsu.
@@ -21,7 +19,6 @@ Penipuan dapat memakai identitas pemerintah, perusahaan, teman, atau penyedia ja
 - Catatan: status izin dapat berubah; lakukan pemeriksaan terbaru sebelum transaksi.
 
 ### 3. Jika sudah mentransfer uang karena penipuan, lapor segera
-<!-- zh-TW: 若已因詐騙匯款，立即聯絡支付服務業者，向 IASC 通報以啟動凍結帳戶的處理，並向警方報案。 -->
 - Biaya: waktu untuk menyimpan bukti dan mengisi laporan.
 - Langkah: hubungi penyedia pembayaran, ajukan laporan melalui IASC untuk memulai upaya penundaan transaksi atau pemblokiran rekening terkait, simpan nomor laporan, dan lapor kepada kepolisian. Siapkan bukti transfer serta percakapan.
 - Manfaat: mempercepat upaya penelusuran dan pengamanan rekening; pemulihan dana tidak dijamin.

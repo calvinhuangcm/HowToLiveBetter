@@ -3,7 +3,6 @@
 Kehamilan memerlukan penilaian yang sesuai dengan kesehatan ibu dan janin. Mulai perawatan sedini mungkin di fasilitas kesehatan dan ikuti saran petugas. Diperiksa 30 Oktober 2026.
 
 ### 1. Mulai pemeriksaan kehamilan dan bawa Buku KIA ke setiap kunjungan
-<!-- zh-TW: 及早開始產前檢查，並於每次就診攜帶母子健康手冊。 -->
 - Biaya: perjalanan dan waktu kunjungan sesuai layanan yang digunakan.
 - Langkah: hubungi Puskesmas, bidan, atau fasilitas kesehatan untuk jadwal pemeriksaan. Catat pertanyaan, obat, alergi, dan riwayat kesehatan.
 - Manfaat: pemeriksaan memberi kesempatan untuk menilai kesehatan dan merencanakan tindak lanjut.
@@ -12,7 +11,6 @@ Kehamilan memerlukan penilaian yang sesuai dengan kesehatan ibu dan janin. Mulai
 - Catatan: frekuensi pemeriksaan dan rujukan ditentukan oleh petugas sesuai kondisi.
 
 ### 2. Diskusikan obat, jamu, suplemen, dan vaksin dengan tenaga kesehatan
-<!-- zh-TW: 懷孕期間使用藥物、草藥、保健品或疫苗前，先與醫療人員確認。 -->
 - Biaya: waktu untuk menunjukkan kemasan atau resep.
 - Langkah: sebutkan seluruh obat dan produk yang dikonsumsi. Jangan memulai atau menghentikan obat resep hanya berdasarkan informasi daring.
 - Manfaat: membantu menilai keamanan penggunaan sesuai kondisi kehamilan.
@@ -21,7 +19,6 @@ Kehamilan memerlukan penilaian yang sesuai dengan kesehatan ibu dan janin. Mulai
 - Catatan: informasi umum tidak menggantikan penilaian dokter atau bidan.
 
 ### 3. Buat rencana persalinan dan transportasi bersama keluarga
-<!-- zh-TW: 與家人及醫療人員預先安排生產院所、交通與緊急聯絡方式。 -->
 - Biaya: waktu untuk membahas pilihan fasilitas dan rute.
 - Langkah: tanyakan fasilitas rujukan, transportasi, pendamping, dokumen, dan siapa yang dapat dihubungi bila muncul tanda bahaya.
 - Manfaat: memudahkan keluarga bertindak saat waktu persalinan tiba atau kondisi berubah.

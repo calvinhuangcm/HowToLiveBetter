@@ -3,7 +3,6 @@
 Perawatan lansia perlu menghormati pilihan dan kemampuan orang yang dirawat. Kebutuhan kesehatan, sosial, dan pengasuhan tidak sama antarindividu. Diperiksa 30 Oktober 2026.
 
 ### 1. Tanyakan kepada lansia apa yang ingin dan mampu ia lakukan sendiri
-<!-- zh-TW: 先詢問長者希望如何安排生活與照顧，保留其自主性。 -->
 - Biaya: waktu untuk mendengarkan dan menyesuaikan rutinitas.
 - Langkah: bahas kegiatan sehari-hari, privasi, pilihan layanan, obat, dan siapa yang boleh mengambil keputusan bila diperlukan.
 - Manfaat: menjaga martabat dan membantu dukungan sesuai kebutuhan nyata.
@@ -12,7 +11,6 @@ Perawatan lansia perlu menghormati pilihan dan kemampuan orang yang dirawat. Keb
 - Catatan: kemampuan mengambil keputusan perlu dihormati; bila ada perubahan kesehatan, minta penilaian tenaga profesional.
 
 ### 2. Buat jadwal pembagian tugas dan jeda bagi anggota keluarga yang merawat
-<!-- zh-TW: 將照顧工作分配給家人，並安排照顧者休息。 -->
 - Biaya: waktu keluarga untuk menyepakati pembagian tugas.
 - Langkah: catat siapa yang menemani kontrol, membantu belanja, atau mengurus dokumen. Buat rencana cadangan ketika pengasuh utama sakit atau bekerja.
 - Manfaat: memperjelas tanggung jawab dan mengurangi beban yang menumpuk pada satu orang.
@@ -21,7 +19,6 @@ Perawatan lansia perlu menghormati pilihan dan kemampuan orang yang dirawat. Keb
 - Catatan: layanan pendampingan keluarga tersedia berbeda-beda menurut daerah.
 
 ### 3. Tanyakan layanan kesehatan dan sosial kepada Puskesmas serta Dinas Sosial
-<!-- zh-TW: 向衛生中心及社會局處詢問長者適用的健康與社會服務。 -->
 - Biaya: waktu untuk meminta informasi dan menyiapkan dokumen.
 - Langkah: jelaskan kebutuhan lansia, hambatan mobilitas, dan kondisi keluarga. Tanyakan program aktif, proses asesmen, serta biaya resmi.
 - Manfaat: menghubungkan keluarga dengan layanan yang mungkin tersedia di daerah.

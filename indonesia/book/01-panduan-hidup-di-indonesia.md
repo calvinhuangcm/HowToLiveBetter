@@ -3,7 +3,6 @@
 Mulailah dari dokumen, fasilitas layanan, dan kanal resmi di tempat tinggal Anda. Indonesia terdiri dari banyak pulau dan pemerintah daerah; alur layanan dan nomor darurat tidak selalu sama di setiap kota. Diperiksa 31 Oktober 2026.
 
 ### 1. Simpan salinan aman dokumen identitas dan catat cara memperbaiki data
-<!-- zh-TW: 保存身分文件的安全備份，並先查清楚如何更正個人資料。 -->
 - Biaya: sedikit waktu untuk memeriksa dokumen keluarga dan membuat salinan yang terlindungi.
 - Langkah: simpan dokumen asli di tempat aman dan salinan digital yang dikunci. Catat cara menghubungi Dukcapil kabupaten/kota untuk urusan KTP-el, Kartu Keluarga, akta kelahiran, atau akta kematian. Jangan mengirim foto NIK kepada pihak yang tidak jelas.
 - Manfaat: dokumen lebih mudah ditemukan saat mengurus layanan dan mengurangi risiko penyalahgunaan data.
@@ -12,7 +11,6 @@ Mulailah dari dokumen, fasilitas layanan, dan kanal resmi di tempat tinggal Anda
 - Catatan: persyaratan dan kanal pelayanan administrasi kependudukan ditangani Dukcapil setempat.
 
 ### 2. Cari Puskesmas, rumah sakit, kantor desa/kelurahan, dan Dinas Sosial terdekat
-<!-- zh-TW: 先找好附近的衛生中心、醫院、村里辦公室及社會局處。 -->
 - Biaya: beberapa menit untuk mencari dan menyimpan alamat serta jam layanan.
 - Langkah: gunakan situs pemerintah daerah atau tanyakan langsung kepada kantor setempat. Catat fasilitas kesehatan tingkat pertama yang terdaftar pada JKN dan nomor kontak yang benar-benar berfungsi.
 - Manfaat: mengurangi kebingungan ketika perlu berobat, memperbarui data, atau mencari bantuan.
@@ -21,7 +19,6 @@ Mulailah dari dokumen, fasilitas layanan, dan kanal resmi di tempat tinggal Anda
 - Catatan: lokasi, jadwal, sistem antrean, dan jenis layanan berbeda antarwilayah.
 
 ### 3. Simpan nomor darurat setempat dan periksa cakupan sebelum terjadi insiden
-<!-- zh-TW: 透過地方政府官網確認所在地可用的緊急電話，再保存其他適用服務專線。 -->
 - Biaya: tanpa biaya untuk menyiapkan daftar kontak.
 - Langkah: periksa melalui situs resmi pemerintah kabupaten/kota apakah 112 aktif di wilayah Anda. Simpan juga kanal resmi Polri 110, layanan darurat kesehatan PSC 119, dan BASARNAS 115 bila sesuai dengan kebutuhan setempat.
 - Manfaat: saat panik, Anda sudah tahu nomor mana yang dapat dihubungi dan informasi apa yang perlu disampaikan.

@@ -3,7 +3,6 @@
 Pilihan belajar dan kerja perlu dibandingkan berdasarkan biaya, waktu, peluang, dan tanggung jawab pribadi. Periksa syarat program pada tahun pendaftaran; persyaratan dapat berubah. Diperiksa 30 Oktober 2026.
 
 ### 1. Sebelum mendaftar pelatihan, periksa penyelenggara, kurikulum, dan biaya total
-<!-- zh-TW: 報名前確認訓練機構、課程內容、認證方式與總費用。 -->
 - Biaya: waktu untuk membandingkan beberapa pilihan.
 - Langkah: tanyakan durasi, pengajar, praktik, sertifikat, biaya tambahan, kebijakan pengembalian, dan hasil kerja lulusan.
 - Manfaat: membantu memilih pelatihan yang sesuai tujuan dan mengurangi risiko membayar program yang tidak jelas.
@@ -12,7 +11,6 @@ Pilihan belajar dan kerja perlu dibandingkan berdasarkan biaya, waktu, peluang, 
 - Catatan: sertifikat atau pelatihan tidak menjamin pekerjaan.
 
 ### 2. Cari pelatihan dan lowongan melalui layanan resmi Kemnaker
-<!-- zh-TW: 透過勞工部官方服務查詢訓練與職缺資訊。 -->
 - Biaya: waktu untuk membuat akun dan memeriksa kesempatan.
 - Langkah: buka SIAPkerja atau tanyakan layanan pemerintah daerah yang terkait. Hindari membayar biaya rekrutmen kepada pihak yang tidak dapat diverifikasi.
 - Manfaat: membantu mencari informasi dari jalur pemerintah dan mengetahui kanal pengaduan.
@@ -21,7 +19,6 @@ Pilihan belajar dan kerja perlu dibandingkan berdasarkan biaya, waktu, peluang, 
 - Catatan: pendaftaran atau pelatihan tidak memastikan lolos seleksi kerja.
 
 ### 3. Hitung biaya hidup dan konsekuensi sebelum pindah bidang atau kota
-<!-- zh-TW: 轉職或搬遷前，估算收入、生活費、交通與照顧責任。 -->
 - Biaya: waktu untuk membuat anggaran dan mencari informasi.
 - Langkah: bandingkan pendapatan bersih, biaya pindah, transportasi, tempat tinggal, dan dukungan keluarga sebelum menerima tawaran.
 - Manfaat: membantu mengambil keputusan dengan mempertimbangkan lebih dari gaji nominal.

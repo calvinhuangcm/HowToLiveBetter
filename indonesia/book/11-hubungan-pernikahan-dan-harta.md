@@ -3,7 +3,6 @@
 Pernikahan dan pengelolaan harta berkaitan dengan hukum, pencatatan, keyakinan, dan keadaan keluarga. Pastikan jenis layanan yang sesuai dengan agama, status, dan lokasi Anda. Diperiksa 31 Oktober 2026.
 
 ### 1. Bicarakan utang, pengeluaran, tujuan, dan cara mengelola uang sebelum menikah
-<!-- zh-TW: 婚前坦誠討論債務、開支、目標與財務管理方式。 -->
 - Biaya: waktu untuk berbicara dan menyusun rencana bersama.
 - Langkah: bahas penghasilan, tanggungan keluarga, utang, rekening, dan keputusan yang perlu persetujuan bersama. Jangan menyembunyikan kewajiban finansial yang dapat memengaruhi pasangan.
 - Manfaat: membantu pasangan membuat keputusan yang lebih jelas tentang keuangan dan tanggung jawab.
@@ -12,7 +11,6 @@ Pernikahan dan pengelolaan harta berkaitan dengan hukum, pencatatan, keyakinan, 
 - Catatan: harta dan kewajiban hukum bergantung pada dokumen dan keadaan masing-masing; konsultasikan sebelum membuat perjanjian.
 
 ### 2. Verifikasi prosedur pencatatan perkawinan melalui kanal resmi yang berlaku
-<!-- zh-TW: 依宗教或信仰與適用身分，向 SIMKAH/KUA 或地方民事登記機關確認婚姻登記文件與流程。 -->
 - Biaya: waktu untuk menyiapkan dokumen dan meminta konfirmasi.
 - Langkah: calon pasangan Muslim dapat memeriksa persyaratan dan pendaftaran melalui SIMKAH/KUA. Untuk perkawinan yang dicatat melalui pencatatan sipil, tanyakan dokumen dan prosedur kepada Dukcapil setempat serta otoritas agama atau kepercayaan yang berwenang.
 - Manfaat: mengurangi risiko memakai formulir, perantara, atau rekening pembayaran palsu.
@@ -21,7 +19,6 @@ Pernikahan dan pengelolaan harta berkaitan dengan hukum, pencatatan, keyakinan, 
 - Catatan: prosedur, biaya, dan dokumen berbeda menurut jenis pencatatan; konfirmasi ke kantor tujuan.
 
 ### 3. Periksa batas usia dan ketentuan hukum sebelum membuat rencana pernikahan
-<!-- zh-TW: 安排婚姻前先查現行法定年齡與相關規定。 -->
 - Biaya: waktu untuk membaca peraturan atau meminta penjelasan.
 - Langkah: baca peraturan resmi dan tanyakan kepada KUA atau Dukcapil mengenai prosedur yang berlaku. Jangan menganggap dispensasi atau pengecualian otomatis diberikan.
 - Manfaat: membantu keluarga memahami syarat hukum dan perlindungan hak anak.

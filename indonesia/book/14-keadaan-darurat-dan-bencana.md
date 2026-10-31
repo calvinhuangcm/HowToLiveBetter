@@ -3,7 +3,6 @@
 Ancaman berbeda menurut wilayah: gempa, tsunami, banjir, longsor, kebakaran hutan, letusan gunung api, atau kecelakaan laut. Ikuti peringatan otoritas dan prosedur pemerintah setempat. Diperiksa 30 Oktober 2026.
 
 ### 1. Periksa risiko bencana tempat tinggal dan rute evakuasi
-<!-- zh-TW: 查詢住處可能面臨的災害風險與撤離路線。 -->
 - Biaya: waktu untuk melihat peta dan bertanya kepada aparat setempat.
 - Langkah: gunakan inaRISK untuk mengenali ancaman wilayah, lalu cari titik kumpul dan jalur evakuasi yang ditetapkan pemerintah daerah.
 - Manfaat: membantu keluarga menyiapkan keputusan sebelum bencana terjadi.
@@ -12,7 +11,6 @@ Ancaman berbeda menurut wilayah: gempa, tsunami, banjir, longsor, kebakaran huta
 - Catatan: peta risiko tidak menggantikan peringatan langsung atau arahan BPBD.
 
 ### 2. Siapkan tas darurat dan rencana menghubungi keluarga
-<!-- zh-TW: 準備避難包與家人聯絡計畫，並定期更新用品。 -->
 - Biaya: biaya perlengkapan dasar yang disesuaikan dengan kemampuan keluarga.
 - Langkah: siapkan air, makanan tahan simpan, lampu, pengisi daya, dokumen penting, obat rutin, dan kebutuhan bayi, lansia, atau disabilitas. Tentukan titik temu bila jaringan terputus.
 - Manfaat: mempermudah evakuasi dan menjaga kebutuhan dasar untuk sementara.
@@ -21,7 +19,6 @@ Ancaman berbeda menurut wilayah: gempa, tsunami, banjir, longsor, kebakaran huta
 - Catatan: isi tas mengikuti ancaman dan arahan daerah; periksa masa kedaluwarsa secara berkala.
 
 ### 3. Gunakan nomor yang tepat dan konfirmasi ketersediaan di lokasi Anda
-<!-- zh-TW: 依事件類型選擇緊急電話，並先確認當地服務是否可用。 -->
 - Biaya: tanpa biaya untuk menyimpan nomor dan menguji informasi kontak non-darurat.
 - Langkah: untuk polisi, gunakan 110; keadaan darurat kesehatan dapat menghubungi PSC 119; pencarian dan pertolongan dapat menghubungi BASARNAS 115; 112 hanya bila telah tersedia di daerah Anda.
 - Manfaat: membantu laporan mencapai layanan yang menangani jenis kejadian tersebut.

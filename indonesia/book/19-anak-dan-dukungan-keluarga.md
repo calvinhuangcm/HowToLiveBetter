@@ -3,7 +3,6 @@
 Kebutuhan anak berubah seiring usia dan keadaan keluarga. Gunakan layanan kesehatan, pendidikan, dan perlindungan anak resmi; jangan menganggap satu skema bantuan berlaku untuk semua keluarga. Diperiksa 30 Oktober 2026.
 
 ### 1. Simpan buku KIA dan catatan imunisasi anak di tempat yang mudah dibawa
-<!-- zh-TW: 妥善保存兒童健康手冊與疫苗紀錄，每次就診或接種時攜帶。 -->
 - Biaya: waktu untuk menjaga buku dan mencatat kunjungan.
 - Langkah: bawa Buku KIA ke Posyandu, Puskesmas, atau fasilitas kesehatan. Minta petugas mencatat layanan yang telah diberikan.
 - Manfaat: membantu keluarga dan tenaga kesehatan mengikuti tumbuh kembang serta layanan yang sudah diterima.
@@ -12,7 +11,6 @@ Kebutuhan anak berubah seiring usia dan keadaan keluarga. Gunakan layanan keseha
 - Catatan: tindak lanjut kesehatan ditentukan oleh petugas berdasarkan kondisi anak.
 
 ### 2. Periksa status Program Indonesia Pintar melalui sekolah atau SIPINTAR
-<!-- zh-TW: 透過學校或 SIPINTAR 查詢 PIP 資格與撥款狀態。 -->
 - Biaya: waktu untuk memeriksa data NIK dan NISN.
 - Langkah: gunakan portal resmi PIP atau tanyakan kepada operator sekolah. Pastikan informasi rekening dan tahap penyaluran sesuai data terbaru.
 - Manfaat: membantu keluarga membedakan pengusulan, penetapan penerima, aktivasi rekening, dan pencairan.
@@ -21,7 +19,6 @@ Kebutuhan anak berubah seiring usia dan keadaan keluarga. Gunakan layanan keseha
 - Catatan: pengusulan atau penerimaan pada tahun sebelumnya tidak otomatis berarti menerima bantuan kembali.
 
 ### 3. Laporkan kekerasan terhadap anak melalui kanal perlindungan resmi
-<!-- zh-TW: 若兒童遭受暴力，向 SAPA 129 或所在地保護服務通報。 -->
 - Biaya: tanpa biaya untuk membuat laporan; gunakan perangkat dan tempat yang aman.
 - Langkah: hubungi SAPA 129, WhatsApp 08-111-129-129, atau UPTD PPA setempat. Bila anak dalam bahaya langsung, cari tempat aman dan hubungi layanan darurat.
 - Manfaat: membuka jalur bantuan dan pendampingan bagi perempuan serta anak.

@@ -3,7 +3,6 @@
 Gunakan fasilitas yang sesuai tingkat kebutuhan dan ikuti alur jaminan kesehatan yang berlaku. Pada keadaan gawat, cari pertolongan segera; jangan menunda hanya untuk menyelesaikan administrasi. Diperiksa 30 Oktober 2026.
 
 ### 1. Cek status JKN dan fasilitas kesehatan tingkat pertama
-<!-- zh-TW: 定期確認 JKN 參保狀態與登記的基層醫療院所。 -->
 - Biaya: beberapa menit melalui Mobile JKN atau Care Center.
 - Langkah: cek status peserta dan data keluarga, lalu pastikan fasilitas tingkat pertama yang tercatat masih dapat diakses.
 - Manfaat: mempermudah perencanaan kunjungan dan mengetahui kanal administrasi resmi.
@@ -12,7 +11,6 @@ Gunakan fasilitas yang sesuai tingkat kebutuhan dan ikuti alur jaminan kesehatan
 - Catatan: prosedur rujukan mengikuti kondisi medis dan ketentuan JKN terkini.
 
 ### 2. Simpan nomor rekam medis dan hasil pemeriksaan yang relevan
-<!-- zh-TW: 保存病歷號與重要檢查結果，並妥善保護個人資料。 -->
 - Biaya: waktu untuk mengumpulkan dokumen.
 - Langkah: simpan hasil pemeriksaan, resep, alergi, dan catatan tindak lanjut dalam folder aman. Tanyakan kepada fasilitas cara memperoleh salinan resmi.
 - Manfaat: membantu pasien menyampaikan riwayat kepada petugas lain.
@@ -21,7 +19,6 @@ Gunakan fasilitas yang sesuai tingkat kebutuhan dan ikuti alur jaminan kesehatan
 - Catatan: jangan membagikan dokumen medis di ruang publik atau grup yang tidak perlu.
 
 ### 3. Gunakan layanan pengaduan resmi bila mengalami masalah dalam layanan JKN
-<!-- zh-TW: 遇到 JKN 服務問題時，透過 BPJS 官方申訴管道追蹤。 -->
 - Biaya: waktu untuk membuat kronologi dan menyimpan nomor tiket.
 - Langkah: lapor melalui Mobile JKN atau Care Center 165. Cantumkan tanggal, fasilitas, dan bukti yang relevan.
 - Manfaat: memberi jalur resmi untuk meminta informasi atau menyampaikan pengaduan.
