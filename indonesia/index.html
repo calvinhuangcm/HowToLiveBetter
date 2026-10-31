@@ -82,7 +82,7 @@
     async function openChapter(index){
       selected=Math.max(0,Math.min(index,chapters.length-1));for(const[i,b]of [...list.querySelectorAll('button')].entries())b.setAttribute('aria-current',i===selected?'true':'false');
       content.innerHTML='<div class="loading">Memuat bab…</div>';search.value='';grade.value='';
-      try{const response=await fetch(chapters[selected].path);if(!response.ok)throw new Error(`HTTP ${response.status}`);const data=parse(await response.text());entries=data.rows;content.innerHTML=`<div class="chapter-intro"><h2>${esc(chapters[selected].label||data.title)}</h2>${data.intro.map(p=>`<p>${inline(p)}</p>`).join('')}</div><div id="status" class="status"></div><div id="entries" class="entries"></div>`;renderRows()}
+      try{const response=await fetch(chapters[selected].path);if(!response.ok)throw new Error(`HTTP ${response.status}`);const data=parse(await response.text());entries=data.rows;content.innerHTML=`<div class="chapter-intro"><h2>${esc(chapters[selected].label||data.title)}</h2></div><div id="status" class="status"></div><div id="entries" class="entries"></div>`;renderRows()}
       catch(err){content.innerHTML=`<div class="error">Bab tidak dapat dimuat (${esc(err.message)}). Buka berkas Markdown melalui <a href="README.md">daftar bab</a>.</div>`}
       document.querySelector('#prev').disabled=selected===0;document.querySelector('#next').disabled=selected===chapters.length-1;
       const u=new URL(location.href);u.searchParams.set('chapter',String(selected));history.replaceState(null,'',u);
